@@ -1,0 +1,11 @@
+/*--------------- Image Styling --------------- */
+html,
+body {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  font-family: "Lato", sans-serif;
+  color: hsl(212, 56%, 16%);
+}
